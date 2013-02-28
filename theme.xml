@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="theme">
+	<name>Travelous</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+
+	<author url="http://mikelietz.org/">Mike Lietz</author>
+
+	<version>1.0</version>
+	<url>http://github.com/mikelietz/travelous/</url>
+	<description><![CDATA[A theme mimicking a Posterous theme]]></description>
+
+	<template_engine>rawphpengine</template_engine>
+	<parent>Wazi</parent>
+
+	<copyright>2013</copyright>
+
+	<guid>D3C712AE-3A4B-409C-AEA9-517B1990BBA8</guid>
+
+	<areas>
+		<area name="sidebar" title="Sidebar">
+			<description><![CDATA[Appears on posts and pages.]]></description>
+		</area>
+	</areas>
+
+</pluggable>
